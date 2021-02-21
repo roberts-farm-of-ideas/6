@@ -1,14 +1,16 @@
 {
-    "description": "DESCRIPTION_GOES_HERE.", 
-    "title": "Robert's Farm of Ideas: RUNNING_NUMBER_OF_IDEA -- RUNNING_TITLE_OF_IDEA", 
+    "description": " When is it favorable to do two-step or one-pot coupled enzyme reactions?", 
+    "title": "Robert's Farm of Ideas: 6 -- Breakeven point of coupled enzyme reactions", 
     "license": {
         "id": "CC-BY-4.0"
     }, 
-    "notes": "Development is happening here: https://github.com/roberts-farm-of-ideas/RUNNING_NUMBER_OF_IDEA", 
+    "notes": "Development is happening here: https://github.com/roberts-farm-of-ideas/6", 
     "keywords": [
-        "KEYWORD1",
-        "",
-        "KEYWORDLAST"
+        "coupled enzyme reactions",
+        "cascade reactions",
+        "breakeven",
+        "generalization",
+        "equilibrium constants"
     ],
     "creators": [
     {
