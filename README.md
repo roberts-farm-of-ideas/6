@@ -1,9 +1,9 @@
-# Robert's Farm of Ideas: 6
+# Robert's Farm of Ideas: 6 -- Breakeven point of coupled enzyme reactions
 
 [![DOI of this idea](https://zenodo.org/badge/doi/10.5281/zenodo.4556450.svg)](https://doi.org/10.5281/zenodo.4556450)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-green.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-## This idea in NUMBER_OF_CHARACTERS characters
+## This idea in short
 Depending on the equilibrium constants and the desired conversions, it is (theoretically) more favorable to perform an coupled enzyme reaction of form 
 
 ```
